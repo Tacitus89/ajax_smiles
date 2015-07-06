@@ -1,9 +1,9 @@
 {
-	"name": "tacitus89/ajax_smilies",
+	"name": "tacitus89/ajaxsmilies",
 	"type": "phpbb-extension",
 	"description": "Ajx Smilies Extension for phpBB3.1",
 	"homepage": "http://www.develop.strategie-zone.de",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"keywords": [
 		"phpbb",
 		"extension",
