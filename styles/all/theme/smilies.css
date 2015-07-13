@@ -1,5 +1,10 @@
 #smiley-box {
 	width: 100%;
+	float: none;
+}
+
+#smiley-box .pagination {
+	float: none;
 }
 
 #message-box {
